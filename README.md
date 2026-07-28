@@ -1,0 +1,2 @@
+# Gmail-Attachment-Automation-using-Google-Apps-Script-and-Power-Query
+The purpose of this project is to automate the extraction of email information and Excel attachments from Gmail, making them available for analysis inside Microsoft Excel without any manual downloading.  Instead of opening Gmail every day, downloading attachments manually, and combining multiple Excel reports, the entire workflow is automated.
