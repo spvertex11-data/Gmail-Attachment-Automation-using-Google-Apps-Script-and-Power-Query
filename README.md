@@ -13,6 +13,16 @@ Developed an end-to-end automation solution that extracts Excel attachments from
 * Data From Gmail to Excel Image  <img width="1900" height="1072" alt="Data From Gmail to Excel" src="https://github.com/user-attachments/assets/07917100-ae7d-4c9e-9072-e8ee33dafd2d" />
 
 
+Data_Files 
+1 GmailToExcel = <a href="[https://github.com/spvertex11-data/Quick_Bite_Food_Delivery/blob/main/Quick_Bite.xlsx](https://github.com/spvertex11-data/Gmail-Attachment-Automation-using-Google-Apps-Script-and-Power-Query/blob/main/GmailToexcel.xlsx)"</a>
+
+2 Files A = <a href="[[https://github.com/spvertex11-data/Quick_Bite_Food_Delivery/blob/main/Quick_Bite.xlsx](https://github.com/spvertex11-data/Gmail-Attachment-Automation-using-Google-Apps-Script-and-Power-Query/blob/main/GmailToexcel.xlsx)](https://github.com/spvertex11-data/Gmail-Attachment-Automation-using-Google-Apps-Script-and-Power-Query/blob/main/CHENNAI.xlsx)"</a>
+
+B = <a href="[[[https://github.com/spvertex11-data/Quick_Bite_Food_Delivery/blob/main/Quick_Bite.xlsx](https://github.com/spvertex11-data/Gmail-Attachment-Automation-using-Google-Apps-Script-and-Power-Query/blob/main/GmailToexcel.xlsx)](https://github.com/spvertex11-data/Gmail-Attachment-Automation-using-Google-Apps-Script-and-Power-Query/blob/main/CHENNAI.xlsx)](https://github.com/spvertex11-data/Gmail-Attachment-Automation-using-Google-Apps-Script-and-Power-Query/blob/main/MUMBAI.xlsx)"</a>
+
+C = <a href="[[[https://github.com/spvertex11-data/Quick_Bite_Food_Delivery/blob/main/Quick_Bite.xlsx](https://github.com/spvertex11-data/Gmail-Attachment-Automation-using-Google-Apps-Script-and-Power-Query/blob/main/GmailToexcel.xlsx)](https://github.com/spvertex11-data/Gmail-Attachment-Automation-using-Google-Apps-Script-and-Power-Query/blob/main/CHENNAI.xlsx)](https://github.com/spvertex11-data/Gmail-Attachment-Automation-using-Google-Apps-Script-and-Power-Query/blob/main/NAGPUR.xlsx)"</a>
+
+D = <a href="[[[https://github.com/spvertex11-data/Quick_Bite_Food_Delivery/blob/main/Quick_Bite.xlsx](https://github.com/spvertex11-data/Gmail-Attachment-Automation-using-Google-Apps-Script-and-Power-Query/blob/main/GmailToexcel.xlsx)](https://github.com/spvertex11-data/Gmail-Attachment-Automation-using-Google-Apps-Script-and-Power-Query/blob/main/CHENNAI.xlsx)](https://github.com/spvertex11-data/Gmail-Attachment-Automation-using-Google-Apps-Script-and-Power-Query/blob/main/Narnaul.xlsx)"</a>
 
 
 
